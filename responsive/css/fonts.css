@@ -1,0 +1,16 @@
+/* font-family */
+@font-face{
+	font-family:Chilanka;
+	src:url('../fonts/Chilanka-Regular.ttf');	
+}
+
+@font-face{
+	font-family:DancingScript ;
+	src:url('../fonts/DancingScript-Regular.ttf');	
+}
+
+@font-face{
+	font-family:Varta ;
+	src:url('../fonts/Varta-Regular.ttf');	
+}
+
